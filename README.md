@@ -373,8 +373,6 @@ ENTRYPOINT ./goapp
 
 `docker build -t buildando:1.0 -f Dockerfile2 .`
 
-![Untitled](DOCKER%2053861469b09b42d792c9089cfb06e75c/Untitled.png)
-
 Veja que o container `buildando` utiliza a infraestrutura do container `goapp`, assim o container `buildando` não precisa importar toda a infraestrutura para a linguagem do `go`, ficando dessa forma, bem mais leve.
 
 ### Customizando uma imagem base
@@ -412,9 +410,7 @@ docker history image_id
 
 Existem sites para inspecionar as camadas de imagens
 
-### Docker hub
-
-[Docker Hub Container Image Library | App Containerization](https://hub.docker.com/)
+### [Docker hub](https://hub.docker.com/)
 
 **Para authenticar no docker:** 
 
