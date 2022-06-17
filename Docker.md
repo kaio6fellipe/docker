@@ -599,7 +599,7 @@ docker-machine env machine_name
 eval "$(docker-machine env machine_name)"
 ```
 
-# DOCKER SWARM
+# [[Docker Swarm]]
 
 Utilizado para criar cluster de containers, tem suporte a filover e faz balanceamento de carga
 
