@@ -1,6 +1,23 @@
 # DOCKER
 [[DevOps]], [[SRE]]
 
+```
+
+                    ##        .
+              ## ## ##       ==
+           ## ## ## ##      ===
+       /""""""""""""""""\___/ ===
+  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~
+       \______ o          __/
+         \    \        __/
+          \____\______/
+
+          |          |
+       __ |  __   __ | _  __   _
+      /  \| /  \ /   |/  / _\ |
+      \__/| \__/ \__ |\_ \__  |
+```
+
 ### `Para realizar a instalação do docker, consultar o guia da documentação oficial`
 
 ## Estudos utilizando linux
